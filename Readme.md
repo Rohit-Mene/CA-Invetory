@@ -1,7 +1,7 @@
 
 ## Setup Instructions
 1. Clone the repository.
-2. Set up MySQL database and update `application.properties` with you password.
+2. Set up MySQL database and update `application.properties` with your password.
 3. Run the application using IntelliJ IDE
 
 ## API Endpoints
